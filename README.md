@@ -22,35 +22,12 @@ Um site para um relógio inteligente voltado ao monitoramento de saúde de pesso
    npm install
    ```
 
-3. **Organize a estrutura de pastas**
-   
-   Certifique-se de que sua estrutura está assim:
-   ```
-   projeto/
-   ├── src/
-   │   ├── components/
-   │   ├── styles/
-   │   ├── App.tsx
-   │   └── main.tsx
-   ├── public/
-   │   └── assets/
-   │       └── HelpCareLogo.jpg
-   ├── index.html
-   ├── package.json
-   ├── vite.config.ts
-   └── tsconfig.json
-   ```
-
-4. **Adicione o logo**
-   - Crie a pasta `public/assets/`
-   - Coloque o arquivo `HelpCareLogo.jpg` dentro dela
-
-5. **Execute o projeto**
+3. **Execute o projeto**
    ```bash
    npm run dev
    ```
 
-6. **Acesse no navegador**
+4. **Acesse no navegador**
    - Abra: http://localhost:3000
 
 ### Scripts disponíveis
